@@ -1,6 +1,5 @@
 # **Alina Kozlovskaya**
 ### Junior frontend developer
-##### Located in St.Peterburg
 ***************
 ### **Summary**
 #### I’m a novice Frontend Developer using HTML5, CSS3, JavaScript, and React.JS. I am passionate about the technologies, design, and user experience. I am absolutely a team player. 
